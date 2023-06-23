@@ -1,1 +1,4 @@
 .env
+
+target/site/jacoco/*
+target/surefire-reports/*
